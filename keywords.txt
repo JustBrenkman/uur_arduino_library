@@ -1,0 +1,20 @@
+ROV KEYWORD1 ROV
+ButtonDuo KEYWORD1 ButtonDuo
+Motor KEYWORD1 Motor
+
+updateROV KEYWORD2
+drive KEYWORD2
+brake KEYWORD2
+standby KEYWORD2
+left KEYWORD2
+right KEYWORD2
+forward KEYWORD2
+back KEYWORD2
+getLeftBtns KEYWORD2
+isUp KEYWORD2
+isDown KEYWORD2
+isBoth KEYWORD2
+isNone KEYWORD2
+getRightBtns KEYWORD2
+getMiddleBtns KEYWORD2
+getExtraBtns KEYWORD2
